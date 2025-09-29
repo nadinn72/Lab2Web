@@ -97,7 +97,7 @@ Konsekuensi
 - Jika sebuah aturan diberi deklarasi !important, maka aturan itu akan diprioritaskan meskipun berada pada eksternal atau internal CSS.
 
 
-# 4.Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+**4.Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )**
 
 **Penjelasan**
 
