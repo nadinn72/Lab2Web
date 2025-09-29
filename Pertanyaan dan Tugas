@@ -1,0 +1,10 @@
+Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
+penjelasannya!
+
+`h1 { ... }`
+Disebut selektor elemen dan berlaku untuk semua elemen `<h1>` di seluruh halaman HTML.
+`<h1>` Bersifat umum dan global.
+
+`#intro h1 { ... }`
+Disebut selektor turunan dengan id dan berlaku hanya pada elemen `<h1>` yang berada di dalam elemen dengan atribut `id="intro".`
+`#intro h1 { ... }` Bersifat lebih spesifik.
